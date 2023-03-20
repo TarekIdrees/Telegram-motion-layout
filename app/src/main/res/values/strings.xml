@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">TelegramTask</string>
+    <string name="profile_name">The chance</string>
+    <string name="subscribers_number">816 subscribers</string>
+    <string name="info">Info</string>
+    <string name="left_arrow">left arrow</string>
+    <string name="more_vert">more vert</string>
+    <string name="profile_link">t.m/theChance101</string>
+    <string name="qr_icon">qr icon</string>
+    <string name="invite_link">Invite Link</string>
+    <string name="files">Files</string>
+    <string name="links">Links</string>
+    <string name="media">Media</string>
+    <string name="off">Off</string>
+    <string name="notification">Notification</string>
+</resources>
